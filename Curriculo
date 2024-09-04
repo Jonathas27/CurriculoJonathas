@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="apresentacao" style="text-align: center;"> 
+        <h1>Geovane Correia Da Silva Santos</h1>
+        <h3>Desenvolvedor Front-End</h3>
+    </div>
+    <hr>
+</body>
+</html>
